@@ -1,0 +1,5 @@
+bolo: 10
+zaza: 5
+lolo: 3
+coisa: 1
+boa: 1

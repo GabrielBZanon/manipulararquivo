@@ -1,0 +1,1 @@
+#include<stdio.h>intmain(){printf("Alomundo!\n");printf("Alomundo!\n");printf("Alomundo!\n");printf("Alomundo!\n");printf("Alomundo!\n");return0;}
